@@ -19,14 +19,14 @@
 }
 
 .uploader .dropzone {
-  border: 2px dashed #888;
+  border: 2px dashed #daf7fd;
   border-radius: 12px;
   padding: 2rem;
   text-align: center;
   cursor: pointer;
-  color: #444;
+  color: #ddedec;
 }
-.uploader .hint { color: #666; font-size: 0.9rem; }
+.uploader .hint { color: #ffeded; font-size: 0.9rem; }
 
 .grid {
   display: grid;
@@ -87,4 +87,4 @@
   border-color: #4f46e5;
 }
 
-footer { margin-top: 1.5rem; text-align: center; color: #666; font-size: 0.9rem; }
+footer { margin-top: 1.5rem; text-align: center; color: #f3dbfc; font-size: 0.9rem; }
