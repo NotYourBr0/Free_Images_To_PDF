@@ -24,7 +24,7 @@ a:hover {
 body {
   background: 
     linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-    url('./gojo.jpeg') center/cover no-repeat;
+    url('/src/assets/gojo.jpeg') center/cover no-repeat;
   margin: 0;
   display: flex;
   place-items: center;
